@@ -1,4 +1,4 @@
-# api-rest-nodejs-eith-mysql
+# api-rest-nodejs-with-mysql
 
 Pre-requisito
 |> node.org/en
